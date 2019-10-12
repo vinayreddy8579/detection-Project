@@ -1,0 +1,45 @@
+body{
+margin: 0;
+padding: 0;
+    height: 100vh;
+}
+#particles-js
+{
+    height: 100%;
+    background: #e89;
+}
+.btext{
+    color: #f9f3f4;
+    position: absolute;
+    text-align: center;
+    top: 20%;
+    width: 100%;
+    bottom: 30%;
+    line-height: 0.4em;
+    
+}
+.btn{
+    color: #ffe;
+    text-decoration: none;
+    border: #ed5bae 10px solid;
+    padding: 10px 15px;
+    border-radius: 8px;
+    line-height: 4em;
+    
+}
+
+.btn:hover{
+    color:aqua;
+    border: #a4005d 1px solid;
+}
+.button{
+    font-size:60px;
+    background-color: #a4005d; 
+    border-color: black;
+    margin-top: 7%;
+}
+.button:hover{
+    color: aqua;
+}
+
+
